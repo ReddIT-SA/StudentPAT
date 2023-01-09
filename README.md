@@ -1,4 +1,4 @@
-# Welcome to <MYNAME>'s PAT
+# Welcome to Bob Johnson's PAT
   
 ## Here are my instructions to build my app:
   1. Install [Netbeans](https://netbeans.apache.org/)
